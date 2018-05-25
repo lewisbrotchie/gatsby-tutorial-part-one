@@ -9,6 +9,8 @@ export default () => (
       <GatsbyLink to="/page2/">Link</GatsbyLink>
       <br />
       <GatsbyLink to="/page3/">Another link</GatsbyLink>
+      <br />
+      <GatsbyLink to="/counter/">Counter</GatsbyLink>
     </div>
   </div>
 );
